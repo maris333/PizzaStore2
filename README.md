@@ -1,1 +1,2 @@
-# PizzaStore2
+# PizzaStore
+Factory Method
